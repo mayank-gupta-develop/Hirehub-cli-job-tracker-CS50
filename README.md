@@ -4,16 +4,16 @@ Author: Mayank Gupta
 Course: CS50’s Introduction to Programming with Python (CS50P) – Harvard University
 Final Project: 2026
 
-GitHub Repository: 👉 https://github.com/mayank-gupta-develop/My-CS50-Projects
-Project Video (YouTube): 👉 
+GitHub Repository: 👉 https://github.com/mayank-gupta-develop/Hirehub-cli-job-tracker-CS50.git
+Project Video (YouTube): 👉 https://youtu.be/1g07C8IrbzQ
 
 ⸻
 
 📌 Description
 
-HireHub is a command-line job scraping and tracking application built entirely in Python as my final project for CS50P. The application enables users to search for remote job opportunities from multiple online sources and manage their job application progress through a structured and persistent system.
+HireHub is a command-line job scraping and tracking application built entirely in Python as my final project for CS50P. The application enables users to search for remote job opportunities across multiple online sources and manage their job application progress through a structured, persistent system.
 
-Unlike traditional job searching methods that involve multiple browser tabs or spreadsheets, HireHub provides a centralized and efficient workflow directly in the terminal. Users can scrape jobs, filter them intelligently, store them locally, and track their application status over time.
+Unlike traditional job-search methods that involve multiple browser tabs or spreadsheets, HireHub provides a centralized, efficient workflow directly in the terminal. Users can scrape jobs, filter them intelligently, store them locally, and track their application status over time.
 
 This project reflects my ability to design and implement a complete Python-based application that integrates external APIs, database management, testing, and user interaction into a cohesive system.
 
